@@ -85,5 +85,3 @@ npm run build
 ```
 
 ---
-
-If you want a **very minimal version**, a **GitHub badges version**, or a **live-demo-ready README**, I can do that in one pass.
